@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\bin\Debug\LinkLabel.exe.config
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\bin\Debug\LinkLabel.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\bin\Debug\LinkLabel.pdb
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\obj\Debug\LinkLabel.Form1.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\obj\Debug\LinkLabel.Properties.Resources.resources
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\obj\Debug\LinkLabel.exe
+C:\Users\Lenovo\Documents\IFRO 2° Ano\P.O.O e L.P\2° Bimestre\LinkLabel\LinkLabel\obj\Debug\LinkLabel.pdb
